@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062121611758",
+    "project_id": "movie-player-2c15e",
+    "storage_bucket": "movie-player-2c15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062121611758:android:c564ccb32466f94419aeff",
+        "android_client_info": {
+          "package_name": "com.example.movieplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062121611758-qqpggcg7ja6og4cp70kb8eubsopre7hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieplayer",
+            "certificate_hash": "28502e3fdbf26a0c4831d94248dddaff80822542"
+          }
+        },
+        {
+          "client_id": "1062121611758-t9q51u7hfgk1bm4vh9ap977jtb2ph2c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv1__qbebDj-ZkHeVWvEmmWd6VgV0htUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062121611758-t9q51u7hfgk1bm4vh9ap977jtb2ph2c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
